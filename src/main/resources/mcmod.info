@@ -3,7 +3,7 @@
   "modid": "legacycustompublish",
   "name": "Legacy Custom Publish",
   "description": "Allows specifying a manual port in /publish in legacy versions.",
-  "url": "https://www.curseforge.com/minecraft/mc-mods/legacycustompublish",
+  "url": "https://modrinth.com/mod/legacycustompublish",
   "version": "${version}",
   "mcversion": "1.4.7",
   "authorList": ["unascribed"]
